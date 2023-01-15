@@ -1,0 +1,33 @@
+
+.welcome-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.welcome-section h2 {
+    font-size: 2em;
+}
+
+.hours-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.hours-section h2{
+    font-size: 1.5em;
+}
+
+.location-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.location-section h2{
+    font-size: 1.5em;
+}
