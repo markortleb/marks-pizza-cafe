@@ -12,7 +12,7 @@ function home() {
                 Our signature pizzas have been developed over many years of trial and error to become one of the finest
                 pizzas in all of Colorado. Our chefs use handcrafted ingredients inspired by years of culinary
                 excellence to provide the finest assembled artisan pizzas. We welcome all to experience a slice of 
-                fresh, savory pizza. So come on down to Ortleb Family Pizza, and don't forget to bring your 
+                fresh, savory pizza. So come on down to Mark's Pizza Cafe, and don't forget to bring your 
                 taste buds.
             </p>
         </div>

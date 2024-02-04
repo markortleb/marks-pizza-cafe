@@ -24,7 +24,7 @@ function menu() {
             <h3>Pizzas</h3>
         </div>
         <div class="menu-item">
-            <h4>Classic Ortleb Family Pizza</h4>
+            <h4>Mark's Classic Pizza</h4>
             <p>
                 The classic pizza that started it all! Comes with cheese, pepperoni, and sauce all on top of our
                 signature crust.

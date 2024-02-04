@@ -10,7 +10,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: 'Ortleb Family Pizza',
+            title: 'Mark\'s Pizza Cafe',
         }),
     ],
     output: {

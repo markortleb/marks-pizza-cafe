@@ -10,7 +10,7 @@ function init() {
     document.body.innerHTML = `
         <div class="header">
             <div class="header-top">
-                <h1>Ortleb Family Pizza</h1>
+                <h1>Mark's Pizza Cafe</h1>
             </div>
             <div class="header-bottom">
                 <div class="tab active" id="home">
