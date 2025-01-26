@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --watch",
     "start": "webpack server --open",
-    "host": "webpack serve --host=localhost --port=8002",
+    "host-dev": "webpack serve --host=localhost --port=8002",
+    "host-prod": "webpack serve --host=0.0.0.0 --port=80",
     "build": "webpack"
   },
   "author": "",
