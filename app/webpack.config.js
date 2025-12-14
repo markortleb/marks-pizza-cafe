@@ -23,7 +23,7 @@ module.exports = {
     devServer: {
         static: './dist',
         allowedHosts: [
-            'pizza-cafe.markortleb.com',  // Allow requests from this hostname
+            'marks-pizza-cafe.markortleb.com',  // Allow requests from production hostname
             'localhost',                  // Allow localhost
             '127.0.0.1'                   // Allow requests from localhost IP
         ],

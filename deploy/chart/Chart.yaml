@@ -1,0 +1,4 @@
+apiVersion: v2
+name: marks-pizza-cafe
+description: A Helm chart for deploying the Mark's Pizza Cafe website.
+version: 0.1.0
